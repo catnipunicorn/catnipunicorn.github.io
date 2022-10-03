@@ -1,0 +1,52 @@
+---
+layout: default
+---      
+
+<div class="home">
+
+  {{ content }}
+
+  {%- if site.projects.size > 0 -%} 
+
+    <h2 class="post-list-heading">{{ project.list_title | default: "What I do" }}</h2>
+
+</div>
+<br>
+     
+<div class="grid-container">
+ {%- for project in site.projects -%}
+      
+        <div><h4>
+          <a class="post-link" href="{{ project.url | relative_url }}">
+            {{ project.title | escape }}
+          </a>
+        </h4></div>
+              {%- endfor -%}
+      </div>
+  {%- endif -%}
+<br>
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+    <br>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

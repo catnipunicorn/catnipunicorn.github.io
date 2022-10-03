@@ -1,0 +1,45 @@
+I".<div class="grid-container">
+
+
+
+
+<div>          <a href="http://localhost:4000/projects/1_project.html">
+          <span>
+              <h2>CV &amp; FAQ</h2>
+              <br />
+              <p>for recruiters and potential employers</p>
+          </span>
+          </a>
+  </div>
+
+
+  
+
+
+<div>          <a href="http://localhost:4000/projects/3_project.html">
+          <span>
+              <h2>Localis/zation</h2>
+              <br />
+              <p>Making a product accessible across the globe</p>
+          </span>
+          </a>
+  </div>
+
+
+  
+
+
+<div>          <a href="http://localhost:4000/projects/5_project.html">
+          <span>
+              <h2>Product</h2>
+              <br />
+              <p>how I work as a product owner/product manager</p>
+          </span>
+          </a>
+  </div>
+
+
+  
+
+</div>
+:ET

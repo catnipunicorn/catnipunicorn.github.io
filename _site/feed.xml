@@ -1,79 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/gradfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/gradfolio/" rel="alternate" type="text/html" /><updated>2021-04-20T00:26:11+02:00</updated><id>http://localhost:4000/gradfolio/feed.xml</id><title type="html">Catnip Unicorn</title><subtitle>Anna Popoca | Writer and more | Chief Transparency officer</subtitle><entry><title type="html">Getting diagnosed with ASD</title><link href="http://localhost:4000/gradfolio/blog/2018/getting-diagnosed/" rel="alternate" type="text/html" title="Getting diagnosed with ASD" /><published>2018-11-03T00:00:00+01:00</published><updated>2018-11-03T00:00:00+01:00</updated><id>http://localhost:4000/gradfolio/blog/2018/getting-diagnosed</id><content type="html" xml:base="http://localhost:4000/gradfolio/blog/2018/getting-diagnosed/">A brief story of getting diagnosed as austic in adulthood.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-03T16:05:54+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Anna A. Popova</title><subtitle>Anna A. Popova is a product owner, writer and neurodiversity advocate. </subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/template_personal/jekyll/update/2021/05/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-05-17T11:40:09+02:00</published><updated>2021-05-17T11:40:09+02:00</updated><id>http://localhost:4000/template_personal/jekyll/update/2021/05/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/template_personal/jekyll/update/2021/05/17/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
-&gt; You can also [read the post on Medium](https://medium.com/@catnipunicorn/getting-diagnosed-with-asd-587f21c2478f).
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
-How I was diagnosed? Well, it’s a long story. Let’s start with how I ended up in therapy in the first place.
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
 
-## I have never been happy
-My whole life, as long as I remember, I was never happy — or, as happy might indicate a short period of time, I have never been content. There was always some *big* problem that prevented me from feeling good — or, at least, not be sad, miserable and full of self pity, self hatred and feeling of superiority at the same time.
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-I don’t remember much what were the reasons pre teenage years — I only remember that I thought “when I’ll be 12, I’ll be cool, have friends, my first kiss and boys will like me and I will excel at bowling” (or any other popular activity for cool kids).
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-That never happened, and I entered my teenage years full of harmless rebellion, Kurt Cobain, dubious style choices and graphomania. No boyfriends still, and it bothered me a lot. But you’re supposed to be miserable when you’re a teenager — it’s just a phase, it will go by, you’ll grow up.
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-Indeed, style choices changed, along with music preferences, but something still didn’t feel right — definitely on romantic front, but not only. Constant sadness and disappointment in my studies in particular and academia in general did not make my early 20s a happy time either.
-
-Surely it would be better once I get a real job with real money and a boyfriend and get out of my mom’s apartment?
-
-No. No. No. Great job as a journalist at the best place to do it Moscow, with real social impact and amazing career perspectives. A boyfriend to whose place I moved in quite fast. Freedom and some money for myself (books, gym and mani-pedi). So what is still wrong?
-
-Okay, it must be the country! Terrible political system, censorship that eventually destroyed the job I loved (our editor in chief was [fired](https://www.newyorker.com/news/daily-comment/putin-moves-against-the-press) and replaced by a pro Kremlin guy, and almost everyone quit immediately), unstable economy, mean people, cold and dirty winters... one can never be happy in the land of Dostoyevsky and Tsvetaeva.
-
-![a picture of an old russian grammar book](../assets/images/death-inevitable.gif)
-&gt; Pre revolution Russian grammar book: **Oak is a tree. Rose is a flower. Deer is an animal. Sparrow is a bird. Russia is our motherland. Death is inevitable.**
-
-I moved with my then boyfriend to a different country — the Netherlands, land of tulips, canals, flatness, gay pride, red lights and light drugs. A chance to start a new life. A chance to finally be happy.
-
-Turns out it’s hard to be happy when your skills are not really transferable to another country (journalist with some teaching experience and education in ancient languages and literature), and sitting at home without a job and personal money sucks a lot. Having a terrible job that you are overqualified for helps for a month or two, but then you’re miserable again.
-
-Ok, so the only problem in this new life is a job? Fixed! Here’s a job that matches you skills much better! **Are you happy now, Anna, are you happy?!**
-
-No. Even when on paper everything seemed fine (new friends, decent job with career opportunities, stable long term relationship, a cat, for fucks sake!), I still equally dreaded going to work and coming back home. The only state I was comfortable in was lying in bed, preferably sleeping, preferably non stop.
-
-This was the moment I finally admitted that something is wrong and started asking for help.
-
-## Mental health in the Netherlands
-I am very lucky to live in the Netherlands. Health care system here is completely different from Russia: no antibiotics when you have a flu, no MRI when you have a light concussion after biking into a wall, no regular checks with gynaecologist. But the moment I asked my GP to prescribe me antidepressants — he did it gladly, and suggested to try therapy as well. I didn’t take upon his suggestion immediately. I asked for a referral to a psychologist only after my then boyfriend decided to move back home (which eventually led to a break-up as well), while I decided to stay, and I was more emotional, frustrated and unsure about my life than usual. 
-
-Long story short, after an intake from a psychologist (who does up to 10-12 sessions) I was referred to a psychiatrist (who treats chronic mental health issues with no time limit), and finally had my appointment.
-
-I was telling her my background, and how I feel around other people, and how social interactions make me very anxious — and the psychiatrist asked: has anyone ever called you autistic? I laughed. — *You see, all my friends back in Moscow were like this, we always joked that we are autistic.*
-
-We never touched this topic again, as I had more pressing issues to deal with (like not being able to get out of bed).
-
-In a year she closed her practice and I had to start my therapy over with a different psychiatrist. With her, the topic of autism did not come up during the intake (instead she made me realise that I was a lonely child). But couple of months into treatment, I was telling my psychiatrist how obsessed am I with following the rules. *‘You know, even when I was a kid, I never broke the rules. Like, if adults told me that I can’t go into the forest I wouldn’t do it, not even with peer pressure— not because I was afraid of the punishment. Not even much because I didn’t want to disappoint them, although that played some role. My main reason was: if I break the rules, and then everyone breaks the rules, the world will be just **CHAOS**!!!’*
-
-*‘Has anyone ever called you autistic?’,* - she said. *‘Kids don’t usually think about chaos and entropy’. *
- 
-Again, I laughed and told about my previous psychiatrist, and we parked the topic until I felt ready to talk about it.
-
-## Wait, can people get less than 30 in AQ test?
-We live in a wonderful world for self diagnosis, be it for cancer, 
-housemaid’s knee or schizophrenia. If you google for ‘autism test for adults’ , you immediately get buzzilion links to AQ — [https://psychology-tools.com/autism-spectrum-quotient](https://psychology-tools.com/autism-spectrum-quotient), 50 statements that you rate on ‘definitely agree’ to ‘definitely disagree’ scale and then get a score. I’ve taken a Russian version of the test long time ago, and scored somewhere in ‘yeah you’re probably autistic’, but  I am smart enough not to self diagnose. However after having two mental health professional suggest that I might be autistic, I decided to try it out once more — and again scored above 32, indicating that yeah, I am probably autistic. 
-
-When the test was popular in Russian segment of Facebook, almost everyone I knew were somewhere on the spectrum judging by their results. So I was sceptical. ‘*Hey baby, can you take this test as well please?*’ — I asked my wonderful boyfriend. He’s smart, he’s a software engineer, he’s a geek — but also an extrovert while I always considered myself to be an introvert. I was sure he’d get something around 30, because how can anyone get less?
-
-He scored 12. I was ready to get a diagnosis (or the lack of it) from my psychiatrist.
-
-## So, dear doctor, am I autistic?
-At my next appointment I just asked my psychiatrist: s*o, remember you mentioned I might be autistic? I kind of want to get some clarity on that.*
-
-Her answer was: in my professional opinion, yes, you are on the autistic spectrum. I can send you a test (Dutch psychiatrists, in my experience, use tests from [telepsy](https://www.telepsy.nl/) to make their diagnosis — or at least, to make it more ‘official’ than just observations), and *we’ll discuss it next time.*
-
-The test was… the same AQ, just in Dutch. I got my new diagnosis confirmed and had to figure out how to live with it, what does in change for me (if anything). 
-
-And so my journey of understanding, coping and reading books on the topic started.</content><author><name></name></author><summary type="html">A brief story of getting diagnosed as austic in adulthood.</summary></entry><entry><title type="html">Hello, my name is Anna and I am autistic.</title><link href="http://localhost:4000/gradfolio/blog/2018/hi-my-name-is/" rel="alternate" type="text/html" title="Hello, my name is Anna and I am autistic." /><published>2018-10-28T00:00:00+02:00</published><updated>2018-10-28T00:00:00+02:00</updated><id>http://localhost:4000/gradfolio/blog/2018/hi-my-name-is</id><content type="html" xml:base="http://localhost:4000/gradfolio/blog/2018/hi-my-name-is/">An introduction.
-
-&gt; You can also [read the post on Medium](https://medium.com/@catnipunicorn/hello-my-name-is-anna-and-i-am-autistic-583b02f67047).
-
-## Hello, my name is Anna and I am autistic.
-If you look at me, if you work with me, if you sometimes drink or socially interact with me — you might not suspect a thing. I have the appearance of an Adult Who Has Her Shit together: well-paying job, great boyfriend, holidays all over the world, two cats, serious hobbies like opera. I speak three languages, I have a cum laude University diploma (in addition to an impeccable high school one), I have moved to a different country and started my professional life from scratch, basically achieving quiet a lot in four years.
-
-Amazing, right? I am a great and my life is wonderful. Unless you are aware about my crying in the office toilet, panic attacks caused by loud background noise, general misery and constant anxiety, inability to perceive what people imply with their words, bad temper, and, of course, a mild but chronic depression as a result of it all.
-
-I have been getting professional mental health help for two years now, but only this summer I have been officially diagnosed with autistic spectrum disorder (Asperger&apos;s syndrome is not an official diagnosis anymore — since 2013). I want to tell the world what it is like for me — what does it mean — why I am happy with the diagnosis — and how you all can help me and people like me. Moreover, I just want to write it all down to cope better myself as writing was always an activity that made feel better.
-
-![Lego on my couch](../assets/images/lego1.jpeg)
-&gt; Along with building Lego and doing some other things.
-
-(I also write in Russian in my [telegram channel](https://t.me/joinchat/AAAAAD6x1kjy32pDI3nOug)).</content><author><name></name></author><summary type="html">An introduction.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="template_personal" /><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
