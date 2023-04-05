@@ -25,7 +25,7 @@ Currently I am volunteeting with [VluchtelingenWerk](https://www.vluchtelingenwe
 # Portfolio
 
 - Short bio / consulting [elevator pitch](/lukasv.html) for Lukas Vermeer
-- Internal (informal) [communication](?internal-newsearch.html) promoting a new tool
+- Internal (informal) [communication](/internal-newsearch.html) promoting a new tool
 - [UX writing at Booking.com](/uxbooking.html)
 - [Personal blog](https://medium.com/@catnipunicorn)
 
