@@ -140,7 +140,7 @@ table td { border: 1px solid #e8e8e8; }
 /**Additional**/
 .image { float: center; }
 
-.profile-pic { float: right; font-size: small; }
+.profile-pic { float: right; font-size: small; margin: 2px; }
 
 .grid-container { display: grid; }
 

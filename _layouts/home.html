@@ -6,7 +6,7 @@ layout: default
 
   {{ content }}
 
-  {%- if site.projects.size > 0 -%} 
+<!--   {%- if site.projects.size > 0 -%} 
 
     <h2 class="post-list-heading">{{ project.list_title | default: "What I do" }}</h2>
 
@@ -19,14 +19,14 @@ layout: default
         <div><h4>
           <a class="post-link" href="{{ project.url | relative_url }}">
             {{ project.title | escape }}
-          </a>
+          </a><br>
         </h4></div>
               {%- endfor -%}
       </div>
   {%- endif -%}
-<br>
+<br> -->
 
-  {%- if site.posts.size > 0 -%}
+<!--   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Blog" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
@@ -46,7 +46,7 @@ layout: default
     </ul>
     <br>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-s -->ubscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

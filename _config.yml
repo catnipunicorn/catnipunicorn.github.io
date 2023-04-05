@@ -20,21 +20,48 @@
 
 title: Anna A. Popova
 email: contact@aapopova.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Anna A. Popova is a product owner, writer and neurodiversity advocate. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: catnip_unicorn
-github_username:  catnipunicorn
+description: Product management, UX writing, neurodiversity and cats.
+footer: Powered by Jekyll and GitHub pages.
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-collections:
-  projects:
-    output: true
+header_pages:
+  - portfolio.md
+  - cv.md
+  - contact.md
+
+minima:
+  # Minima date format.
+  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
+  #
+  # date_format: "%b %-d, %Y"
+
+  # Generate social links in footer.
+  #
+  social_links:
+  #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
+  #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
+  #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
+     - { platform: github,         user_url: "https://github.com/catnipunicorn" }
+  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+     - { platform: instagram,      user_url: "https://www.instagram.com/art.vs.depression" }
+  #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
+     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/aapopova" }
+  #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
+  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
+  #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
+     - { platform: telegram,       user_url: "https://t.me/rhubarb_pie" }
+  #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+  #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+
+
+# collections:
+#  projects:
+#   output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
