@@ -1,3 +1,8 @@
+---
+layout: page
+title: Writing portfolio
+---
+
 # Portfolio
 
 - Short bio / consulting [elevator pitch](https://aapopova.com/lukasv.html) for Lukas Vermeer

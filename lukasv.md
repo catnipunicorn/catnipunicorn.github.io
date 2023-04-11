@@ -1,4 +1,9 @@
-_This is a final version submitted for my client, Lukas Vermeer. It was published on [his website](https://www.lukasvermeer.nl/)._
+---
+layout: page
+title: Short bio/consultancy elevator pitch
+---
+
+_Chief experimentation officer Lukas Vermeer approached me asking to create a short bio for [his website](https://www.lukasvermeer.nl/), that could also be used as an elevator pitch for consultancy gigs._
 
 Lukas Vermeer is an experienced experimentation practitioner. His specialty is designing and building the infrastructure and processes required to start and scale A/B testing to drive business growth. 
 
@@ -17,7 +22,7 @@ You can hire Lukas to help you find answers to questions such as:
 - What are the common pitfalls and mistakes in A/B testing and beyond? 
 - How to ensure that experimentation takes the right place in your company culture?
 
-Dry facts:
+**Dry facts:**
 
 2021 - present — Vistaprint, Director of Experimentation<br>
 2013 - 2021 — Booking.com, Director of Experimentation<br>

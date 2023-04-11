@@ -5,13 +5,12 @@ title: Contact
 # Contact
 Here is how you can contact me:
 
-* email contact@aapopova.com
+* email [contact@aapopova.com](mailto:contact@aapopova.com)
 * telegram [@mevrouwpopova](https://t.me/mevrouwpopova)
 * set up a chat in [calendly](https://calendly.com/catnipunicorn)
 * send a pigeon (please don't)
 
 Places you can find me on the internets:
-
 
 * instagram [@art.vs.depression](https://www.instagram.com/art.vs.depression/)
 * medium [@catnipunicorn](https://medium.com/@catnipunicorn)

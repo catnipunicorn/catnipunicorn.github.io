@@ -32,13 +32,13 @@ _Product Manager — September 2021 - March 2022_
 
 **Booking.com** (Amsterdam)
 
-_Product Owner, Copy tooling&infrastructure (acting) and UX Writer – October 2017 - December 2020_
+_Product Manager, Copy tooling&infrastructure (acting) and UX Writer – October 2017 - December 2020_
 
 * enabled 30+ UX writers to run more and better A/B tests on their own;
 * provided a feedback loop between users (UX writers), developers and data scientists;
 * led team of 3 developers to modernise copy&translations infrastructure serving both web and mobile apps (iOS and Android) to meet company goals, such as offering broader range of products to customers;
 * developed a business case, product strategy and a roadmap for migrating old copy systems to a new service; 
-* delivered 20+ trainings to writers, developers and designers across the company (Core product, New products, Infra, Marketing) on copy&translation inner workings.
+* delivered 20+ trainings to writers, developers and designers across the company (Core product, New products, Infra, Marketing) on copy&translations inner workings.
 	
 _Works Council member (elected) — October 20019 - December 2020_
 
@@ -50,6 +50,7 @@ _Works Council member (elected) — October 20019 - December 2020_
 _UX Copywriter for Russian market — September 2015 - September 2017_
 
 * analysed data from Google analytics and past A/B tests to run 100+ data-driven experiments for target markets;
+* delivered 2 talks about [localisation](/loc.html) at Booking.com at the company's annual event;
 * conducted 10+ user interviews to gain insights into customer behaviour and pain points.
 
 _Partner support specialist — January 2015 - September 2015_

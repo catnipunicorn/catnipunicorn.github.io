@@ -29,45 +29,14 @@ When you are working on a product, there is a bunch of functions that need to be
 - **Stakeholder management.** Colleagues, users, managers, C-suite, third parties, contractors… unless you are starting from scratch on a remote island you have at least some stakeholders. You need to make sure that their needs are taken into account, that you are not reinventing the wheel, that you go along with the company vision and its business targets. 
 
 
-I work best when I am in on the vision. I am in on the vision if I take active part in developing it, even better if I own it. 
+I work best when I am in on the vision. I am in on the vision if I take an active part in developing it, even better if I own it. 
 
 
-## Where is you certificate?
+## Where is your certificate?
 I don’t have any. You can finance me getting one (I like studying, and even more I like tests and exams!), but here is the deal.
 
-Scrum, Agile, Waterfall, Lean Six Sigma, RACI, OKRs, sprint reviews, acceptance criteria, Jira, trello… are just tools in a box. And tools works best when the one using them knows the end goal and is able to choose the right once for the purpose  rather than just following a manual.
+Scrum, Agile, Waterfall, Lean Six Sigma, RACI, OKRs, sprint reviews, acceptance criteria, Jira, trello… are just tools in a box. And tools work best when the one using them knows the end goal and is able to choose the right ones for the purpose  rather than just following a manual.
 
 I use whatever method or practice can get us to the result the fastest, safest and friendliest way. If I don’t know of any, I research, talk and brainstorm — and so far I have always found something to work with.
 
 If you value official certification more than experience, intelligence and adaptability, we probably are not a good fit to work together in any case.
-
-## Cases
-
-- **Merging a specialised application into a generic one**
-
-Once upon a time, a company had an internal tool to run A/B experiments. It was used by all the IT department, but every experiment had to be implemented in the codebase. Can’t code? Wait for someone to help you.
-
-Eventually someone developed a stand alone tool that allowed — with certain restrictions — to run a/b tests on pieces of copy (think *Buy now* vs *Add to cart* as a call to action on a product page) without touching the code. Let’s call it The Copy Tool. Empowering writers to leverage their craft knowledge proved to be a huge success for the business. Writers wanted less restrictions and more freedom. 
-
-While working on implementing new features and dealing with dependencies with other internal tools, my team have realised that there is no point in having a separate application. After some talks with various stakeholders, we decided to merge The Copy Tool into the company wide tool for A/B experiments.
-
-It took us couple of months, with some preparatory work done over a year before the final merge.
-
-As a result, the company has one less internal tool to maintain, happier (and more productive) writers who can use the same application as everyone else, and better words across the products. Oh, and the team owning The Copy Tool had to change it focus — it did kill its own baby after all.
-
-- **Roadmap for copy infrastructure**
- 
-Imagine you build an infrastructure for all the texts you serve to your customers based on you current needs — in the year of 2005. The company grows, grows, GROWS, and you find yourself in the year of 2015 with a very complicated system built upon that same infra from 2005. It works, which is great. It requires a lot of workarounds, for writers, translators, designers and developers alike, which is not so great. It is beyond its capacity to scale.
-
-What do you do?
-
-You set up on a bold adventure of redoing everything, from a monolith to a micro service, from product specific to product agnostic, from multiple sources of truth to one… You set up a plan retire legacy attributes. You talk a lot with very different people, you explain your vision and get their buy-in. You create a road map, from the most painful and most fundamental issues to full feature parity. And you start working on it.
-
-This is exactly what I have done a product owner. The roadmap included all the needs, and was very simple and clear. All stakeholders understood why certain things were prioritised above others. The team knew what they were doing, and whom they were doing it for. It aligned with the bigger company goals.
-
-The project had to be put on pause; but in 2021 it’s on again — without me as a product owner and a driver, but with all my research and documentation. I wouldn’t be surprised if they are using a modified version of my roadmap.
-
-
-
-
-
