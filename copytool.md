@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Copy & translations tooling & infrastructure
+descriptions: My work at Booking.com as a product manager
 ---
 
 # Product cases for copy & translations tooling & infrastructure

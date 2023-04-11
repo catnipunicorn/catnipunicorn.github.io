@@ -1,3 +1,9 @@
+---
+layout: pages
+title: UX writing
+descriptions: Examples of my work at Booking.com
+---
+
 _From 2015 until 2020, I worked at Booking.com. My job title was UX copywriter, but I have done a lot of product management work as well. As a writer, I worked with localisation teams and on internal tooling._
 
 # Booking.com

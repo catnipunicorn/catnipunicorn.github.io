@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Product
-description: how I work as a product owner/product manager
+description: General thoughts on product management
 ---
 
 # Product manager (Product owner)

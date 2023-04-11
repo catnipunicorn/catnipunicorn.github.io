@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Short bio/consultancy elevator pitch
+title: Short bio
+description: Elevator pitch for Chief Experimentation Officer Lukas Vermeer
+
 ---
+
+# Lukas Vermeer
 
 _Chief experimentation officer Lukas Vermeer approached me asking to create a short bio for [his website](https://www.lukasvermeer.nl/), that could also be used as an elevator pitch for consultancy gigs._
 

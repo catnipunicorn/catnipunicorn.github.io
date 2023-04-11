@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Writing portfolio
+title: Portfolio
+description: UX writing, elevator pitch, announcement and other examples
 ---
 
 # Portfolio
