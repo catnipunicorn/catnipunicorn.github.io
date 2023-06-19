@@ -27,7 +27,7 @@ As with all copy for Booking.com, every new idea had to go through A/B test, aim
 _(city name)_<br>
 
 Turns out, less is more. The copy with just the city name proved to be conclusively positive for conversion. After successful A/B test for Russian language only, the copy tested just as good for the rest of languages.
-![new Russian copy](/assets/images/cityru.png) ([cached copy](http://web.archive.org/web/20180101211834/https://www.booking.com/city/gr/athens.ru.html) on Web Archive)
+![new Russian copy](/assets/images/city_ru.png) ([cached copy](http://web.archive.org/web/20180101211834/https://www.booking.com/city/gr/athens.ru.html) on Web Archive)
 ![new English copy](/assets/images/city_en.png) ([cached copy](http://web.archive.org/web/20180101211824/https://www.booking.com/city/gr/athens.en-gb.html) on Web Archive)
 
 
