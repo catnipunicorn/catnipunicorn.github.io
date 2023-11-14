@@ -11,11 +11,12 @@ Portrait by <a href="https://www.instagram.com/jessandthepencil/?hl=en">Jess San
 
 Hi! My name is Anna, and I like cats, good words and weighted blankets. I dislike hypocrisy.
 
-My background lies in teaching, investigative journalism and classics. But for the past 10 years, I have been working in the tech sector as a UX writer and product manager. I advocate for inclusion, especially on the neurodivesity front. I read legal documents for fun (my favourites are labour and immigration laws).
+My background lies in teaching, investigative journalism and classics. But for the past 10 years, I have been working in the tech sector as a UX writer and product manager. I advocate for inclusion, especially on the neurodivesity front. I read legal documents for fun (my favourite areas of the law are labour and immigration).
 
-For six years, I worked at Booking.com as a UX writer, technical product manager and an elected member of the Works Council.
+For six years, I worked at Booking.com as a UX writer, technical product manager and an elected member of the Works Council. I have a Professional Scrum Product Owner I [certificate](https://www.credly.com/badges/4fb91bf0-172d-46dc-a65c-b752abc9146a).
 
-Currently I am volunteering with [VluchtelingenWerk](https://www.vluchtelingenwerk.nl/), learning to [paint](https://www.instagram.com/art.vs.depression/) and open for new opportunities.
+Currently I am volunteering with [VluchtelingenWerk](https://www.vluchtelingenwerk.nl/), learning to [paint](https://www.instagram.com/art.vs.depression/) and open for new (paid) opportunities. I also offer [catsitting services](https://en.pawshake.nl/petsitters/rotterdam/i-love-all-cats-and-i-cannot-lie-ZpkrEyRozf2) in Rotterdam, and make [various stickers](/stickers.html).
+
 
 <a href='https://ko-fi.com/X7X5JFFW0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
@@ -48,3 +49,4 @@ Currently I am volunteering with [VluchtelingenWerk](https://www.vluchtelingenwe
 # Technical note
 
 This website is powered by [Jekyll](https://jekyllrb.com/) and [GitHub pages](https://pages.github.com/). It might not look like much, but I am proud of building and deploying it all by myself.
+

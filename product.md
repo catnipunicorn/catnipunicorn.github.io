@@ -33,10 +33,8 @@ I work best when I am in on the vision. I am in on the vision if I take an activ
 
 
 ## Where is your certificate?
-I don’t have any. You can finance me getting one (I like studying, and even more I like tests and exams!), but here is the deal.
+Here it is: I am a proud holder of [Professional Scrum Product Owner I certificate](https://www.scrum.org/certificates/1029055). I got [STAP-budget](https://www.rijksoverheid.nl/onderwerpen/leven-lang-ontwikkelen/leven-lang-ontwikkelen-financiele-regelingen/stap-budget) from the Dutch government to cover the costs. But here is the thing: I don't think having the certificate or taking the courses made me a better professional. 
 
 Scrum, Agile, Waterfall, Lean Six Sigma, RACI, OKRs, sprint reviews, acceptance criteria, Jira, trello… are just tools in a box. And tools work best when the one using them knows the end goal and is able to choose the right ones for the purpose  rather than just following a manual.
 
 I use whatever method or practice can get us to the result the fastest, safest and friendliest way. If I don’t know of any, I research, talk and brainstorm — and so far I have always found something to work with.
-
-If you value official certification more than experience, intelligence and adaptability, we probably are not a good fit to work together in any case.
