@@ -7,9 +7,9 @@ title: Lung Cancer Art
 
 Did you known that you don't have to be a smoker, passive or active, to get lung cancer in your early 30s? Well, now you do. Sometimes even lung cancer is just genetic, caused by mutation in ALK gene. It has no cure. 
 
-[ALK Positive foundation](https://www.alkpositive.org/) brings patients, caregivers and medical professionals together to support each other and raise funds for research. If you [donate](https://alkpositive.kindful.com/) to their cause and send me a proof of your donation, I'll send you some [nice stickers](link). Or you can buy the stickers from me, and I will donate all my net profit to ALK positive.
+[ALK Positive foundation](https://www.alkpositive.org/) brings patients, caregivers and medical professionals together to support each other and raise funds for research. If you [donate](https://alkpositive.kindful.com/) to their cause and send me a proof of your donation, I'll send you some [nice stickers](link) designed by Lara da Rocha Vaz Pato. Or you can buy the stickers from me, and I will donate all my net profit to ALK positive.
 
-# Lara da Rocha: the story behind the cause
+# Lara da Rocha Pato: the story behind the cause
 
 In late 2019, a colleague approached me after I gave a talk about neurodiversity at work. Her name was Lara, she suspected she was autistic, and she wanted to chat about my experiences and office coping strategies. We had some coffee, and it was one of the best conversations I've had in a while.
 
