@@ -11,7 +11,7 @@ Portrait by <a href="https://www.instagram.com/jessandthepencil/?hl=en">Jess San
 
 Hi! My name is Anna, and I like cats, good words and weighted blankets. I dislike hypocrisy.
 
-My background lies in teaching, investigative journalism and classics. But for the past 10 years, I have been working in the tech sector as a UX writer and product manager. I advocate for inclusion, especially on the neurodivesity front. I read legal documents for fun (my favourite areas of the law are labour and immigration).
+My background lies in teaching, investigative journalism and classics. But for the past 10 years, I have been working in the tech sector as a UX writer and product manager. I advocate for inclusion, especially on the neurodiversity front. I read legal documents for fun (my favourite areas of the law are labour and immigration).
 
 For six years, I worked at Booking.com as a UX writer, technical product manager and an elected member of the Works Council. I have a Professional Scrum Product Owner I [certificate](https://www.credly.com/badges/4fb91bf0-172d-46dc-a65c-b752abc9146a).
 
